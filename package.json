@@ -4,5 +4,9 @@
   "description": "Lit-element based components for creating interactive houses",
   "main": "src/index.js",
   "author": "silberguy",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "lit-element": "^3.0.2"
+  },
+  "devDependencies": {}
 }
