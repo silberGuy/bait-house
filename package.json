@@ -1,0 +1,8 @@
+{
+  "name": "bait-house",
+  "version": "1.0.0",
+  "description": "Lit-element based components for creating interactive houses",
+  "main": "src/index.js",
+  "author": "silberguy",
+  "license": "MIT"
+}
